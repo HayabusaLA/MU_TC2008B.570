@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e61911385b9a27543bc3ef14bc59fc67
+timeCreated: 1442585643
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/alienSkin2.mat
+  uploadId: 114639

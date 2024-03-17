@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 123f16d9db6cfdf4199954dfe9ca8c88
+timeCreated: 1440608488
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/demo/ressources/groundMat.mat
+  uploadId: 114639

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6308b914154610d4a94cc71653199f7d
+timeCreated: 1443021483
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/woodMushroom.mat
+  uploadId: 114639

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3ed46aaaf6cda34da961c73f17747ad
+timeCreated: 1440955427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/crystal.mat
+  uploadId: 114639

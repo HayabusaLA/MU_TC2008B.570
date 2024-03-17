@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c6706c72078d694bac9e06079fa7b16
+timeCreated: 1441369669
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/rock2.mat
+  uploadId: 114639

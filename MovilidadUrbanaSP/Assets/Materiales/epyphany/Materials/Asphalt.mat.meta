@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f08b1d5ff32ad5944be6948215437239
+timeCreated: 1440686415
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/Asphalt.mat
+  uploadId: 114639

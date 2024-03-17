@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2383de8c35203734ea2869be5c78e545
+timeCreated: 1441114041
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/diamond.mat
+  uploadId: 114639

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb21673e1a1ae1848bb64bf045033844
+timeCreated: 1440685522
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/demo/DemoScene.unity
+  uploadId: 114639

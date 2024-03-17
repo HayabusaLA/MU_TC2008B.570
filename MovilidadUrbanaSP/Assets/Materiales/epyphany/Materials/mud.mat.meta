@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d7aa0a9784a8834c896d941fadc3447
+timeCreated: 1441327537
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/mud.mat
+  uploadId: 114639

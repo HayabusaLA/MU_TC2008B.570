@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 547cc8f3053e8d84d83549aa5e84fcd0
+timeCreated: 1443015499
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/menhir.mat
+  uploadId: 114639

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4eb660b67ea55e241aa41a8027e649e1
+timeCreated: 1441029250
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/glass.mat
+  uploadId: 114639

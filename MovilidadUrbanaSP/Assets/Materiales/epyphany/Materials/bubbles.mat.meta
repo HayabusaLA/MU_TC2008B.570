@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d512f3fe7628ec648b5a1874d8c18863
+timeCreated: 1440752820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/Materials/bubbles.mat
+  uploadId: 114639

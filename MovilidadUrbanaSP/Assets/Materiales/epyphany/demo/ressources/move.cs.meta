@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 202b71d571c249144bb30a32ce1f9963
+timeCreated: 1440689830
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51991
+  packageName: 24 PBR materials for Unity 5
+  packageVersion: 1.0
+  assetPath: Assets/epyphany/demo/ressources/move.cs
+  uploadId: 114639
